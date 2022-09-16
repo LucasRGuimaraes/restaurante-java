@@ -9,6 +9,6 @@ public class Macarrao extends Alimento {
 
 	@Override
 	public void setValor(Float valor) {
-		this.valor = 29.50f;
+		this.valor = valor;
 	}
 }

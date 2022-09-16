@@ -9,6 +9,6 @@ public class Pao extends Alimento {
 
 	@Override
 	public void setValor(Float valor) {
-		this.valor = 3.50f;
+		this.valor = valor;
 	}
 }

@@ -10,6 +10,6 @@ public class Cafe extends Alimento {
 
 	@Override
 	public void setValor(Float valor) {
-		this.valor = 1.00f;
+		this.valor = valor;
 	}
 }
